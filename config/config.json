@@ -1,0 +1,8 @@
+{
+    "db_user": "your db user",
+    "db_password": "your db password",
+    "email": "youremail@gmail.com",
+    "email_password": "your email password",
+    "name": "your name",
+    "secret_key": "your secret key"
+}
